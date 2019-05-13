@@ -111,19 +111,6 @@ public class Testing_bangun {
 
 	public static void main(String[] args) {
 		new Testing_bangun();
-		/*
-		 * int tinggi,alas; 
-		 * Samakaki SK = new Samakaki(); 
-		 * Scanner input = new Scanner(System.in); 
-		 * System.out.print("Tinggi : "); 
-		 * tinggi = input.nextInt();input.nextLine(); 
-		 * System.out.print("Alas : "); 
-		 * alas = input.nextInt();input.nextLine(); 
-		 * SK = new Samakaki(tinggi, alas); 
-		 * SK.luas();
-		 * SK.keliling();
-		 */
-		
 		
 	}
 
